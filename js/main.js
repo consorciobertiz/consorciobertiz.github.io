@@ -1,0 +1,1 @@
+$('a.restaurant').popover();
