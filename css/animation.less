@@ -1,37 +1,45 @@
-// fadeIn
 .fadeOut{
 	animation-name: fadeOut;
 	-webkit-animation-name: fadeOut;	
 
-	animation-duration: 5s;	
-	-webkit-animation-duration: 5s;
+	animation-duration: 3s;	
+	-webkit-animation-duration: 3s;
 
 	animation-timing-function: ease-in-out;	
 	-webkit-animation-timing-function: ease-in-out;		
 	
-	z-index: 1;
 }
 
 @keyframes fadeOut {
 	0% {
 		opacity: 1;
+		left: 0;
 	}	
 	80%{
 		opacity: 1;
 	}
-	100% {
+	90% {
 		opacity: 0;
+		left: 0;
+	}
+	100% {
+		left: -100%;
 	}			
 }
 
 @-webkit-keyframes fadeOut {
 	0% {
 		opacity: 1;
+		left: 0;
 	}	
 	80%{
 		opacity: 1;
 	}
-	100% {
+	90% {
 		opacity: 0;
-	}			
+		left: 0;
+	}
+	100% {
+		left: -100%;
+	}				
 }

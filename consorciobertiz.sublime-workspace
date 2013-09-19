@@ -1,0 +1,822 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"grayLIght",
+				"grayLighter"
+			],
+			[
+				"la",
+				"landscapePhoneToPortraitTablet	landscapePhoneToPortraitTablet"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"rg",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"po",
+				"portraitTabletToLandscapeAndDesktop	portraitTabletToLandscapeAndDesktop"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bw",
+				"border-width"
+			],
+			[
+				"b",
+				"bxsh	box-shadow: ${1:inset }${2:hoff} ${3:voff} ${4:blur} ${5:color};"
+			],
+			[
+				"wit",
+				"white-space"
+			],
+			[
+				"mih",
+				"min-height"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"fi",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bst",
+				"border-style"
+			],
+			[
+				"bco",
+				"border-color"
+			],
+			[
+				"mw",
+				"min-width"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"va",
+				"va-tb	vertical-align: text-bottom;"
+			],
+			[
+				"bot",
+				"margin-bottom"
+			],
+			[
+				"ws-",
+				"whs-nw	white-space: nowrap;"
+			],
+			[
+				"wh",
+				"white-space"
+			],
+			[
+				"border-le",
+				"border-left-color"
+			],
+			[
+				"bl",
+				"border-left"
+			],
+			[
+				"bord-s",
+				"border-style"
+			],
+			[
+				"bor-c",
+				"border-color"
+			],
+			[
+				"bord",
+				"border-width"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"ta",
+				"ta-c	text-align: center;"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"bk",
+				"background-position"
+			],
+			[
+				"lh",
+				"line-height"
+			],
+			[
+				"bb",
+				"border-bottom"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"lan",
+				"landscapePhoneToPortraitTablet	landscapePhoneToPortraitTablet"
+			],
+			[
+				"las",
+				"landscapePhoneToPortraitTablet	landscapePhoneToPortraitTablet"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"group",
+				"group_id"
+			],
+			[
+				"border-t",
+				"border-top-color"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"bs",
+				"border-style"
+			],
+			[
+				"ta-l",
+				"table-layout"
+			],
+			[
+				"w",
+				"white-space"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"border-to",
+				"border-top-color"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"font",
+				"font"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"mr",
+				"margin-right"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"pt",
+				"padding-top"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"bor",
+				"border-top-width"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"bt",
+				"border-top"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"mt",
+				"margin-top"
+			],
+			[
+				"pb",
+				"padding-bottom"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"f",
+				"font-style"
+			],
+			[
+				"mb",
+				"margin-bottom"
+			],
+			[
+				"h",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"lips",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"li",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"hero",
+				"Snippet: Bootstrap hero example"
+			],
+			[
+				"thu",
+				"Snippet: Bootstrap thumbnails"
+			],
+			[
+				"snippet th",
+				"Snippet: Bootstrap thumbnails"
+			],
+			[
+				"sni",
+				"Snippet: Bootstrap info link button"
+			],
+			[
+				"si",
+				"Snippet: Bootstrap thumbnails"
+			],
+			[
+				"lip",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lipsu",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"snip",
+				"Snippet: Bootstrap primary button"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"sn",
+				"Snippet: Bootstrap starter"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/haritzoyaga/Sites/kimberlyclark/css/app.less",
+		"/Users/haritzoyaga/Sites/kimberlyclark/css/animation.less",
+		"/Users/haritzoyaga/Sites/kimberlyclark/home.html",
+		"/Users/haritzoyaga/Sites/kimberlyclark/css/bootstrap.less",
+		"/Users/haritzoyaga/Sites/bertiz/js/main.js",
+		"/Users/haritzoyaga/Sites/bertiz/css/bootstrap-theme.less",
+		"/Users/haritzoyaga/Sites/bertiz/css/variables.less",
+		"/Users/haritzoyaga/Sites/bertiz/v1.index.html",
+		"/Users/haritzoyaga/Sites/bertiz/css/main.less",
+		"/Users/haritzoyaga/Sites/bertiz/index.html",
+		"/Users/haritzoyaga/Sites/bertiz/css/bootstrap.less",
+		"/Users/haritzoyaga/Sites/bertiz/css/bootstrap-theme.css",
+		"/Users/haritzoyaga/Sites/bertiz/css/app.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/video1-1/node--video1_1.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/online_event/node--online_event.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/contenido_modulo/node--contenido_modulo.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/contenido_modulo/field--contenido_modulo.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/contenido_modulo/includes/related.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/landing_modulo/node--landing_modulo.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/landing_modulo/field--landing_modulo.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/home/includes/que-vas-a-encontrar.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/home/node--portada.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/home/includes/itineraries.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/css/app.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/css/less/home.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/home/includes/why-startup-mentor.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/page.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/html.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/css/less/module-landing.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/css/less/module.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/includes/footer.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/css/less/footer.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/css/less/header.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/includes/footer--portada.tpl.php",
+		"/Users/haritzoyaga/Documents/Portfolio/Grazia app/untitled.html",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/less/variables.less",
+		"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/css/less/decision.less",
+		"/Users/haritzoyaga/Desktop/picture.html",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/views/modulos_comprados/views-view--modulos-comprados.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/css/less/purchased-modules.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/css/less/login-register.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/includes/header.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/includes/header--portada.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/css/less/modal.less",
+		"/Users/haritzoyaga/Sites/Dropbox/Public/kimberly-clark/home.html",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/css/less/profile-edit.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/less/responsive-768px-979px.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/less/responsive.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/less/grid.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/less/sprites-mixins.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/less/scaffolding.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/less/responsive-utilities.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/less/responsive-navbar.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/less/responsive-767px-max.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/less/responsive-1200px-min.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/less/mixins.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/modules/custom/sm_compra_modulos/check_coupon.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/css/less/cupon.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/less/layouts.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/plantillas/v1.comprar-modulo.html",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/includes/titles.inc",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/ejercicio_modulo/node--ejercicio_modulo--teaser.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/panels/panels-pane--og-menu-single-menu.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/plantillas/v1.ficha-modulo-eventos-online.html",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/plantillas/v1.ficha-modulo.html",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/css/screen.css",
+		"/Users/haritzoyaga/Sites/kimberly-clark/home.html",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/less/forms.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/startup.info",
+		"/Users/haritzoyaga/Sites/startup-mentor/profiles/openatrium/themes/radix/radix.info",
+		"/Users/haritzoyaga/Sites/startup-mentor/profiles/openatrium/themes/radix/assets/stylesheets/radix-style.css",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/layouts/phelan.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/less/wells.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/css/less/login.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/css/less/related.less",
+		"/Users/haritzoyaga/Downloads/dist/css/bootstrap-theme.css",
+		"/Users/haritzoyaga/Sites/bootstrap-3.0.0/less/variables.less",
+		"/Users/haritzoyaga/Sites/bootstrap-3.0.0-min/flexbox.html",
+		"/Users/haritzoyaga/Sites/bootstrap-3.0.0-min/flexbox1.html",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/plantillas/v1.listado-modulos-comprados.html",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/modulo/node--ejercicio_modulo--teaser.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/modulo/field--contenido_modulo.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/modulo/field--landing_modulo.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/modulo/node--landing_modulo.tpl.php",
+		"/Users/haritzoyaga/Sites/bootstrap-3.0.0-min/index.html",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/modulo/node--contenido_modulo.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/css/app.css",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/less/bootstrap.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/less/list-group.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/less/buttons.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/modulo/includes/related.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/less/bullets-mixins.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/less/type.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/page/page--portada.tpl.php",
+		"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/html.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/css/ie8.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/css/ie8.css",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/default/local_conf.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/js/home.js",
+		"/Users/haritzoyaga/Sites/startup-mentor/profiles/openatrium/modules/contrib/oa_core/modules/oa_widgets/templates/oa-widgets-visibility-toolbar.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/profiles/openatrium/themes/responsive_bartik/templates/html.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/plantillas/v1.portada.html",
+		"/Users/haritzoyaga/Sites/startup-mentor/plantillas/less/bullets-mixins.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/plantillas/less/variables.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/plantillas/v1.portada.html",
+		"/Users/haritzoyaga/Sites/startup-mentor/plantillas/css/app.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/plantillas/less/thumbnails.less",
+		"/Users/haritzoyaga/Sites/Dropbox/Public/ono/css/app.less",
+		"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/less/mixins.less",
+		"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/css/less/home-no-logueado.less",
+		"/Users/haritzoyaga/Sites/startupsmentor/startupsmentor.sublime-workspace",
+		"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/css/less/header.less",
+		"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/templates/node/node--home.tpl.php",
+		"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/templates/page--home.tpl.php",
+		"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/css/rs-minimalwhite-skin.css",
+		"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/templates/plantillas/banners.tpl.php",
+		"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/css/less/utilities.less",
+		"/Users/haritzoyaga/Sites/bootstrap-3.0.0-wip/less/bootstrap.less",
+		"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/css/royalslider.css",
+		"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/js/home.js",
+		"/Users/haritzoyaga/Sites/onotv/index.html",
+		"/Users/haritzoyaga/Sites/onotv/css/app.less",
+		"/Users/haritzoyaga/Sites/onotv/css/less/sprites-mixins.less",
+		"/Users/haritzoyaga/Sites/onotv/less/variables.less",
+		"/Users/haritzoyaga/Sites/Dropbox/Public/ono/docs/examples/cine.html",
+		"/Users/haritzoyaga/Sites/Dropbox/Public/ono/docs/examples/home.html",
+		"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/css/less/mapa-ambitos.less",
+		"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/css/app.less"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/haritzoyaga/Sites/startup-mentor,/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup",
+			"/Users/haritzoyaga/Sites/startup-mentor",
+			"/Users/haritzoyaga/Sites/startups-mentor",
+			"/Users/haritzoyaga/Sites/startupsmentor",
+			"/Users/haritzoyaga/Sites/startupsmentor/less",
+			"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow,/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/",
+			"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow,/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/css/less",
+			"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow",
+			"/Users/haritzoyaga/Sites/dontknow/docroot,/Users/haritzoyaga/Sites/dontknow/docroot",
+			"/Users/haritzoyaga/Sites/dontknow/docroot,/Users/haritzoyaga/Sites/dontknow",
+			"/Users/haritzoyaga/Sites/dontknow/docroot,/Users/haritzoyaga/Sites/dontknow/docroot/",
+			"/Users/haritzoyaga/Sites/dontknow/docroot,/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow",
+			"/Users/haritzoyaga/Sites/dontknow/docroot,/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/css/less",
+			"/Users/haritzoyaga/Sites/dontknow/docroot",
+			"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/css/less",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<a class=\"restaurant btn btn-default\"",
+			"<a class=\"restaurant\"",
+			"<h4 class=\"panel-title\">",
+			"<a class=\"example\"",
+			"id=\"example\"",
+			"@import \"",
+			"alt=\"\"",
+			"after",
+			"alt=\"\"",
+			"itinerario-title",
+			"alt=\"\"",
+			"<span class=\"price\">30€</span>",
+			"<span>Sin compromiso</span>",
+			"tag",
+			"purchased-modules",
+			"content",
+			"box",
+			"module-points",
+			"<div id=\"title-module\" class=\"span8\">",
+			"add-features",
+			".item-list ul",
+			"messa",
+			"help-bloc",
+			"lt-ie9",
+			"block",
+			"block-level",
+			"input-block-level",
+			"help",
+			"action",
+			"well",
+			"<a href=\"\" class=\"btn btn-primary\">Reservar módulo</a>",
+			"TAB",
+			"<li>Preguntas Frecuentes</li>",
+			"Nombre del evento",
+			"glyphicon glyphicon-file",
+			"<h5 class=\"title\">Título</h5>",
+			"<span class=\"title\">Download</span>",
+			"Download",
+			"con un 20% de descuento",
+			"class=\"btn btn-action pull-right\"",
+			"affix",
+			"border-bo",
+			"box",
+			"profi",
+			".section-header",
+			"<h2 class=\"section-header\">",
+			"input-block",
+			"trobb",
+			"<span class=\"btn btn-small\">Saber más</span>",
+			"<span class=\"btn btn-small hidden-tablet\">",
+			" <br><span class=\"btn btn-small visible-phone\">Saber más</span>",
+			"<span class=\"btn btn-small hidden-desktop\">",
+			"<br><span class=\"btn btn-small visible-tablet\">",
+			"<span class=\"btn btn-small hidden-tablet\">",
+			"g/250/188",
+			" <span class=\"btn btn-small hidden-tablet\">Saber más</span>",
+			"Saber más <span class=\"glyphicon glyphicon-play\"></span>",
+			"saber-mas",
+			"<span class=\"btn btn-small visible-tablet\">",
+			"<span class=\"saber-mas\">",
+			"<a class=\"saber-mas\" href=\"\">Saber más <span class=\"glyphicon glyphicon-arrow-right\"></span></a>",
+			"</h4>\n                      <div class=\"caption\">\n                        <p>",
+			"saber-mas",
+			"http://lorempixel.com/250/141",
+			"http://lorempixel.com/g/250/141",
+			"250/141",
+			"<div class=\"span6\">\n            <p class=\"objectives\">",
+			"<div class=\"span6\">\n            <a href=\"#\" class=\"btn btn-action pull-right\">\n              <span class=\"action\">Reservar Itinerario</span>",
+			"margin",
+			"check",
+			"descuentos",
+			"topseedlabs",
+			"div class=\"span8\">\n            <p class=\"objectives\"><span>Objetivos:</span> Identificar las necesidades que deseas cubrir, a los potenciales clientes y a tu competencia</p>\n          </div>\n          <div class=\"span4\">\n            <a href=\"#\" class=\"btn btn-action pull-right\">\n              <span class=\"action\">Reservar</span>\n              <span class=\"text\">\n                <span class=\"title\">Itinerario completo</span>\n                <span class=\"subtitle\">con un 20% de descuento</span>\n              </span>\n            </a>\n          </div>",
+			"<span class=\"subtitle\">con un 10% de descuento</span>",
+			"<span class=\"subtitle\">sin compromiso</span>",
+			"btn btn-primary btn-action",
+			"discount",
+			"compromise",
+			"discount",
+			"compromise",
+			"profesionals",
+			"#video-block",
+			"text",
+			"date-module",
+			"deepbanner",
+			"#features-startup-mentor",
+			"features",
+			"features-list",
+			".section-title",
+			"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />",
+			"<ul class=\"dropdown-menu\" role=\"menu\" aria-labelledby=\"visibility-dropdown\">",
+			"scrolled",
+			"profi",
+			"profil",
+			"Además, una vez adquirido el módulo podrás completarlo con...",
+			"box-sh",
+			"module-points",
+			"btn-large",
+			"btn-larger",
+			"buy",
+			"blockq",
+			"block",
+			"tab-content",
+			"node-module",
+			"related",
+			"transition",
+			"=====",
+			"head",
+			"relat",
+			"etiq",
+			" Ut enim ad minim veniam,\n                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n                    consequat.",
+			"g/250",
+			"date",
+			"90/90",
+			"250/141/",
+			"<img src=\"http://lorempixel.com/g/250",
+			"<img src=\"http://lorempixel.com/g/250/141/business",
+			"260/146",
+			"statu",
+			"gradien",
+			".btn-pseudo-states",
+			"data-toggle=\"tab\"",
+			"column",
+			"btn-pseudo-states",
+			"@btn-hover-color",
+			"transi",
+			"tra",
+			"transition"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"granate-claro",
+			"&."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"dk_expe",
+				"sites/all/modules/custom/dk_experiencias/dk_experiencias.module"
+			],
+			[
+				"decision",
+				"sites/all/themes/dontknow/templates/node/decision/node--decision.tpl.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 484.0,
+	"status_bar_visible": true
+}

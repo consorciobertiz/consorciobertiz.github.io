@@ -2,14 +2,14 @@
 @import "bootstrap.less";
 
 // Bootstrap theme
-// @import "bootstrap-theme.less";
+//@import "bootstrap-theme.less";
 
 // Animation
 @import "animation.less";
 
 html{
 	height: 100%;
-  background-color: @brand-brown;
+  background-color: #fff;
   @media (min-width: @screen-sm) {
 		background-image: url('../img/bk.body.svg');
 		background-position: left bottom;
@@ -18,37 +18,17 @@ html{
   }
 }
 
-body{
-	height: 100%;
-	position: relative;
-	z-index: 10000;
-	background-color: @brand-brown;
-}
-
-.logo{
-	width: 100px;
-	height: 100px;
-	border-radius: 50px;
-	display: block;
-	position: relative;
-	background-color: @brand-primary;
-	color: #fff;
-	.glyphicon{
-		position: absolute;
-		font-size: 50px;
-		top: 20px;
-		left: 20px;
-	}
-}
-
 .overlay{
+	display: none;
 	width: 100%;
 	height: 100%;
 	position: absolute;
-	left: 0;
-	right: 0;
+	top: 0;
+	left: -100%;
+	z-index: @zindex-intro;
 	background-color: rgba(0, 0, 0, 0.9);
 	color: #fff;
+	opacity: 0;
 	.logo{
 		margin: 10px auto;
 	}
@@ -59,6 +39,23 @@ body{
 	}
 }
 
+.logo{
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	display: inline-block;
+	position: relative;
+	background-color: @brand-primary;
+	color: #fff;
+	.glyphicon{
+		position: absolute;
+		font-size: 50px;
+		top: 20px;
+		left: 20px;
+		text-shadow: 1px 1px 1px darken(@brand-primary, 15%);
+	}
+}
+
 .navbar{
 	margin: 0 -15px;
 	padding: 8px 10px;
@@ -66,7 +63,7 @@ body{
 	border-width: 0 0 1px 0;
 	border-color: @gray-darker;
 	background-image: none;
-	background-color: @brand-green;
+	background-color: @brand-green-darker;
 	box-shadow: none;
 	@media (min-width: @screen-sm) {
 		background-color: transparent;
@@ -75,10 +72,13 @@ body{
 	.logo{
 		width: 34px;
 		height: 34px;
+		margin-right: 5px;
+		float: left;
 		border-radius: 17px;
 		@media (min-width: @screen-sm) {
 			width: 100px;
 			height: 100px;
+			margin-right: 10px;
 			border-radius: 50px;
 		}
 		.glyphicon{
@@ -93,8 +93,53 @@ body{
 			}
 		}
 	}
+	.btn-group{
+		margin-top: 2px;
+		.btn-default{
+			font-weight: 700;
+			background-color: darken(@brand-green-darker, 10%);
+			border-color: @brand-green-darker;
+			color: #fff;
+			&:hover,
+			&:active{
+				background-color: darken(@brand-green-darker, 6%);
+			}
+			@media (min-width: @screen-sm) {
+				background-color: darken(@brand-blue, 20%);
+				border-color: @brand-blue;
+				&:hover,
+				&:active{
+					background-color: darken(@brand-blue, 15%);
+				}
+			}
+			.caret{
+				border-top-color: #fff;
+			}
+		}
+	}
 }
 
+#brand{
+	margin: 0;
+	padding: 7px 0;
+	display: inline-block;
+	float: left;
+	font-size: 15px;
+	text-transform: uppercase;
+	font-weight: 800;
+	color: #fff;
+	text-shadow: 1px 1px 1px darken(@brand-blue, 50%);
+	@media (min-width: @screen-sm) {
+		padding: 20px 0;
+		font-size: 36px;
+	}
+	span{
+		display: none;
+		@media (min-width: @screen-sm) {
+			display: inline;
+		}
+	}
+}
 
 
 h2{
@@ -102,7 +147,7 @@ h2{
 	@media (min-width: @screen-sm) {
 		margin: 0 0 20px;
 	}
-	font-size: 16px;
+	font-size: 15px;
 	text-transform: uppercase;
 	text-align: center;
 }
@@ -136,7 +181,7 @@ h3{
 	}
 	.panel{
 		border-width: 1px 0 0 0;
-		border-color: @brand-green-darker;
+		border-color: @brand-green-dark;
 		border-radius: 0;
 		box-shadow: none;
 		+ .panel{
@@ -148,7 +193,7 @@ h3{
 				&:active{
 					text-decoration: none;
 					.panel-heading{
-						background-color: @brand-green-darker;
+						background-color: @brand-green-dark;
 					}
 				}
 				.panel-heading{
@@ -156,9 +201,10 @@ h3{
 					padding: 15px;
 					border-radius: 0;
 					background-image: none;
-					background-color: @brand-green-dark;
+					background-color: @brand-green;
 					.panel-title{
 						position: relative;
+						font-weight: 700;
 						color: #fff;
 						.glyphicon{
 							position: absolute;
@@ -169,7 +215,7 @@ h3{
 				}
 			}
 			.panel-body{
-				background-color: lighten(@brand-green-dark, 20%);
+				background-color: #fff;
 			}
 		}
 	} 
