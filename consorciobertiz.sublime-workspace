@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"in",
+				"inline-block"
+			],
+			[
 				"bo",
 				"border-color"
 			],
@@ -339,6 +343,38 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "css/main.less",
+			"settings":
+			{
+				"buffer_size": 3811,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/haritzoyaga/Desktop/Lucas Gómez de la Vega Firma.htm",
+			"settings":
+			{
+				"buffer_size": 33255,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "v1.index.html",
+			"settings":
+			{
+				"buffer_size": 14470,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/variables.less",
+			"settings":
+			{
+				"buffer_size": 18893,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -436,6 +472,12 @@
 	},
 	"file_history":
 	[
+		"/Users/haritzoyaga/Sites/consorciobertiz/index.html",
+		"/Users/haritzoyaga/Sites/consorciobertiz/css/variables.less",
+		"/Users/haritzoyaga/Sites/consorciobertiz/v1.index.html",
+		"/Users/haritzoyaga/Sites/consorciobertiz/css/animation.less",
+		"/Users/haritzoyaga/Sites/consorciobertiz/css/main.less",
+		"/Users/haritzoyaga/Sites/consorciobertiz/less/variables.less",
 		"/Users/haritzoyaga/Sites/kimberlyclark/css/app.less",
 		"/Users/haritzoyaga/Sites/kimberlyclark/css/animation.less",
 		"/Users/haritzoyaga/Sites/kimberlyclark/home.html",
@@ -557,13 +599,7 @@
 		"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/css/royalslider.css",
 		"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/js/home.js",
 		"/Users/haritzoyaga/Sites/onotv/index.html",
-		"/Users/haritzoyaga/Sites/onotv/css/app.less",
-		"/Users/haritzoyaga/Sites/onotv/css/less/sprites-mixins.less",
-		"/Users/haritzoyaga/Sites/onotv/less/variables.less",
-		"/Users/haritzoyaga/Sites/Dropbox/Public/ono/docs/examples/cine.html",
-		"/Users/haritzoyaga/Sites/Dropbox/Public/ono/docs/examples/home.html",
-		"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/css/less/mapa-ambitos.less",
-		"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/css/app.less"
+		"/Users/haritzoyaga/Sites/onotv/css/app.less"
 	],
 	"find":
 	{
@@ -597,6 +633,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"http://farm3.staticflickr.com/2827/9818828536_664f23fcf4_m.jpg",
+			"#accordion",
+			"@brand-green-darker-dark",
+			"@brand-green-darker-darker",
+			"@brand-green",
 			"<a class=\"restaurant btn btn-default\"",
 			"<a class=\"restaurant\"",
 			"<h4 class=\"panel-title\">",
@@ -719,12 +760,7 @@
 			"gradien",
 			".btn-pseudo-states",
 			"data-toggle=\"tab\"",
-			"column",
-			"btn-pseudo-states",
-			"@btn-hover-color",
-			"transi",
-			"tra",
-			"transition"
+			"column"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -744,8 +780,118 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "css/main.less",
+					"settings":
+					{
+						"buffer_size": 3811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2763,
+								2763
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2537.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/haritzoyaga/Desktop/Lucas Gómez de la Vega Firma.htm",
+					"settings":
+					{
+						"buffer_size": 33255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10039.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "v1.index.html",
+					"settings":
+					{
+						"buffer_size": 14470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2729,
+								2725
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 618.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/variables.less",
+					"settings":
+					{
+						"buffer_size": 18893,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								683,
+								671
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
