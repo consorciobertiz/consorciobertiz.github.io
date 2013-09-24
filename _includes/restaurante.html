@@ -1,0 +1,13 @@
+
+{% for item in include.categoria limit:1000 %}
+  <li>
+    <a class="restaurant"
+      href="#"
+      title=""
+      data-toggle="popover"
+      data-placement="bottom"
+      data-html="true"
+      data-content="<p><a href='#' class='btn btn-primary btn-lg btn-block'><span class='glyphicon glyphicon-earphone'></span> {{item.telefono}}</a></p> <p>{{item.content | markdownify}}</p>">
+      <span class="glyphicon glyphicon-home"></span>{{item.title}}</a>
+  </li>
+{% endfor %}
