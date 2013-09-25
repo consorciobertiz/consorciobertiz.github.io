@@ -1,3 +1,6 @@
+{% capture home_lang %}home_{{page.idioma}}{% endcapture %}
+{% assign home = site.categories[home_lang][0] %}
+
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -6,26 +9,26 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Restaurantes de Baztán-Bidasoa</title>
-    <meta name="description" content="Calendario de apertura de los restaurantes de Baztan-Bidasoa">
+    <title>{{ site.t[page.idioma].Site_Title }}</title>
+    <meta name="description" content="{{ site.t[page.idioma].Site_Description }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="/css/main.css">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
 
-    <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+    <script src="/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
   </head>
   <body>
     <!--[if lt IE 7]>
-      <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+      <p class="chromeframe">Estás usando un navegador <strong>obsoleto</strong>. Por favor <a href="http://browsehappy.com/">actualiza tu navegador</a> o <a href="http://www.google.com/chromeframe/?redirect=true">activa Google Chrome Frame</a> para navegación.</p>
     <![endif]-->
-    <!--section class="splash fadeOut">
+    <section class="splash fadeOut visible-xs">
       <div class="container">
         <span class="logo">
         </span>
-        <p class="h1">Restaurantes de Baztán-Bidasoa</p>
-        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <p class="h1">{{ home.title }}</p>
+        <p class="lead">{{ home.content }}</p>
       </div>
-    </section-->
+    </section>
     <header id="header">
       <div class="container">
         <nav role="navigation" class="navbar navbar-default">
@@ -34,14 +37,15 @@
               Español <span class="caret"></span>
             </button>
             <ul class="dropdown-menu" role="menu">
-              <li><a href="#">Euskara</a></li>
-              <li><a href="#">English</a></li>
-              <li><a href="#">French</a></li>
+              <li><a href="/">Español</a></li>
+              <li><a href="/eu">Euskara</a></li>
+              <li><a href="/en">English</a></li>
+              <li><a href="/fr">Français</a></li>
             </ul>
           </div>
-          <a class="logo" href="#">
+          <a class="logo" href="/">
           </a>
-          <h1 id="brand"><span>Restaurantes de </span>Baztán-Bidasoa</h1>
+          <h1 id="brand">{{ home.title }}</h1>
         </nav>
       </div>
     </header>
@@ -49,7 +53,7 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-5 col-md-6">
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <div class="lead">{{ home.content | markdownify}}</div>
           </div>
         </div>
       </div>
@@ -59,9 +63,9 @@
     </div>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
-    <script src="js/vendor/bootstrap.min.js"></script>
-    <script src="js/main.js"></script>
+    <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
+    <script src="/js/vendor/bootstrap.min.js"></script>
+    <script src="/js/main.js"></script>
     <script>
       var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
       (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];

@@ -1,0 +1,154 @@
+{% capture home_lang %}home_{{page.idioma}}{% endcapture %}
+{% assign home = site.categories[home_lang][0] %}
+<div class="row">
+  <div class="col-sm-7 col-sm-offset-5 col-md-6 col-md-offset-6">
+    <div id="page">
+      <h2>{{home.periodo}}</h2>
+      <div id="accordion" class="panel-group">
+        <div class="panel panel-default">
+          <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+            <div class="panel-heading">
+              <h3 class="panel-title">{{ site.t[page.idioma].Lunes }} <span class="glyphicon glyphicon-chevron-down"></span></h3>
+            </div>
+          </a>
+          <div id="collapseOne" class="panel-collapse collapse">
+            <div class="panel-body">
+              <h4>{{ site.t[page.idioma].Mediodia }}</h4>
+              <ul class="list-unstyled">
+                {% include restaurante.html categoria=site.tags.lunes-mediodia %}
+              </ul>
+              <h4>{{ site.t[page.idioma].Noche }}</h4>
+              <ul class="list-unstyled">
+                {% include restaurante.html categoria=site.tags.lunes-noche %}
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel panel-default">
+          <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+            <div class="panel-heading">
+              <h3 class="panel-title">{{ site.t[page.idioma].Martes }} <span class="glyphicon glyphicon-chevron-down"></span></h3>
+            </div>
+          </a>
+          <div id="collapseTwo" class="panel-collapse collapse">
+            <div class="panel-body">
+              <h4>{{ site.t[page.idioma].Mediodia }}</h4>
+              <ul class="list-unstyled">
+                {% include restaurante.html categoria=site.tags.martes-mediodia %}
+              </ul>
+              <h4>{{ site.t[page.idioma].Noche }}</h4>
+              <ul class="list-unstyled">
+                {% include restaurante.html categoria=site.tags.martes-noche %}
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel panel-default">
+          <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+            <div class="panel-heading">
+              <h3 class="panel-title">{{ site.t[page.idioma].Miercoles }} <span class="glyphicon glyphicon-chevron-down"></span></h3>
+            </div>
+          </a>
+          <div id="collapseThree" class="panel-collapse collapse">
+            <div class="panel-body">
+              <h4>{{ site.t[page.idioma].Mediodia }}</h4>
+              <ul class="list-unstyled">
+                {% include restaurante.html categoria=site.tags.miercoles-mediodia %}
+              </ul>
+              <h4>{{ site.t[page.idioma].Noche }}</h4>
+              <ul class="list-unstyled">
+                {% include restaurante.html categoria=site.tags.miercoles-noche %}
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
+            <div class="panel-heading">
+              <h3 class="panel-title">{{ site.t[page.idioma].Jueves }} <span class="glyphicon glyphicon-chevron-down"></span></h3>
+            </div>
+          </a>
+          <div id="collapseFour" class="panel-collapse collapse">
+            <div class="panel-body">
+              <h4>{{ site.t[page.idioma].Mediodia }}</h4>
+              <ul class="list-unstyled">
+                {% include restaurante.html categoria=site.tags.jueves-mediodia %}
+              </ul>
+              <h4>{{ site.t[page.idioma].Noche }}</h4>
+              <ul class="list-unstyled">
+                {% include restaurante.html categoria=site.tags.jueves-noche %}
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
+            <div class="panel-heading">
+              <h3 class="panel-title">{{ site.t[page.idioma].Viernes }} <span class="glyphicon glyphicon-chevron-down"></span></h3>
+            </div>
+          </a>
+          <div id="collapseFive" class="panel-collapse collapse">
+            <div class="panel-body">
+              <h4>{{ site.t[page.idioma].Mediodia }}</h4>
+              <ul class="list-unstyled">
+                {% include restaurante.html categoria=site.tags.viernes-mediodia %}
+              </ul>
+              <h4>{{ site.t[page.idioma].Noche }}</h4>
+              <ul class="list-unstyled">
+                {% include restaurante.html categoria=site.tags.viernes-noche %}
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix">
+            <div class="panel-heading">
+              <h3 class="panel-title">{{ site.t[page.idioma].Sabado }} <span class="glyphicon glyphicon-chevron-down"></span></h3>
+            </div>
+          </a>
+          <div id="collapseSix" class="panel-collapse collapse">
+            <div class="panel-body">
+              <h4>{{ site.t[page.idioma].Mediodia }}</h4>
+              <ul class="list-unstyled">
+                {% include restaurante.html categoria=site.tags.sabado-mediodia %}
+              </ul>
+              <h4>{{ site.t[page.idioma].Noche }}</h4>
+              <ul class="list-unstyled">
+                {% include restaurante.html categoria=site.tags.sabado-noche %}
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">
+            <div class="panel-heading">
+              <h3 class="panel-title">{{ site.t[page.idioma].Domingo }} <span class="glyphicon glyphicon-chevron-down"></span></h3>
+            </div>
+          </a>
+          <div id="collapseSeven" class="panel-collapse collapse">
+            <div class="panel-body">
+              <h4>{{ site.t[page.idioma].Mediodia }}</h4>
+              <ul class="list-unstyled">
+                {% include restaurante.html categoria=site.tags.domingo-mediodia %}
+              </ul>
+              <h4>{{ site.t[page.idioma].Noche }}</h4>
+              <ul class="list-unstyled">
+                {% include restaurante.html categoria=site.tags.domingo-noche %}
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="logos">
+        <a href="http://www.baztan-bidasoa.com" id="logo-hiruak-bat" class="logo">
+          <span>Hiruak-bat. Landa Etxeak. Casas rurales. Nafarroa/Navarra</span>
+        </a>
+        <a href="http://www.consorciobertiz.org/" id="logo-bertiz" class="logo">
+          <span>Bertiz. Partzuergo turistikoa. Consorcio turístico</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
