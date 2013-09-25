@@ -1,12 +1,9 @@
-#http://stackoverflow.com/questions/6392677/include-different-file-in-jekyll-depending-on-the-locale
-
 baseurl: /
 permalink: /restaurante/:title
 #markdown: rdiscount
 prose:
   rooturl: '_posts'
   siteurl: 'http://consorciobertiz.github.io'
-#  relativeLinks: 'http://consorciobertiz.github.io/links.jsonp'
   media: 'media'
   metadata:
     _posts/restaurantes:
