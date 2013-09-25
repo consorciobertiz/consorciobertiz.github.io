@@ -11,5 +11,6 @@ $('a.restaurant').on('click', function (e) {
 
 $('a#lnk_splash').on('click', function (e) {
   e.preventDefault();
-  $('section.splash').hide();
+  $('section.splash').removeClass("visible-xs");
+  $('section.splash').hide(500);
 });
