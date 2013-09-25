@@ -1,7 +1,7 @@
 ---
 layout: restaurante
 category: restaurante
-published: false
+published: true
 title: otra prueba
 idioma: es
 telefono: "333444555"
