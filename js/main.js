@@ -8,3 +8,8 @@ $('a.restaurant').on('click', function (e) {
   e.preventDefault();
   $('a.restaurant').not(this).popover('hide');
 });
+
+$('a#lnk_splash').on('click', function (e) {
+  e.preventDefault();
+  $('section.splash').hide();
+});
