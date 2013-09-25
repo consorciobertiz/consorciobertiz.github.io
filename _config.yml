@@ -28,6 +28,21 @@ prose:
           element: "text"
           label: "Teléfono"
           value: ""
+      - name: "idioma"
+        field:
+          element: "select"
+          label: "Selecciona idioma"
+          placeholder: "Castellano"
+          options:
+            - name: "Castellano"
+              value: "es"
+            - name: "Euskara"
+              value: "eu"
+            - name: "Ingles"
+              value: "en"
+            - name: "Frances"
+              value: "fr"
+          selected: "es"
       - name: "tags"
         field:
           element: "multiselect"
@@ -67,16 +82,24 @@ prose:
         field:
           element: "hidden"
           value: "page"
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "home_es"
       - name: "title"
         field:
           element: "text"
           label: "Title"
           value: ""
-      - name: "permalink"
+      - name: "periodo"
         field:
           element: "text"
-          label: "Permalink"
+          label: "Periodo de apertura"
           value: ""
+      - name: "idioma"
+        field:
+          element: "hidden"
+          value: "es"
 t:
   es:
     Lunes: "Lunes"
