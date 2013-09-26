@@ -2,9 +2,9 @@
 layout: restaurante
 category: restaurante
 published: true
-title: Lenkonea
+title: Camping Ariztigain
 telefono:
-  - "948625540"
+  - "948450540"
 tags:
   - "lunes-mediodia"
   - "lunes-noche"
@@ -23,10 +23,10 @@ tags:
 idioma: es
 ---
 
-12:30h. – 15:30h. / 20:30h. - 22:30h.
+13:00-15:15/19:30-22:15
 
-Menú del día (14€), menú Lenkonea (25€) y carta (precio medio: 40€).
+Menu (11€), platos combinados, pinchos, hamburguesas, sandwichs, bocatas, menu fin de semana (22€ y 32€), cazuelas y raciones
 
-Bera
+Sunbilla
 
-[Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/bera-es-0-175/restaurante-lenkonea-hotel-churrut.html)
+[Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/sunbilla-es-0-190/restaurante-camping-ariztigain.html)

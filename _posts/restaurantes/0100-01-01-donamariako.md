@@ -2,12 +2,10 @@
 layout: restaurante
 category: restaurante
 published: true
-title: Lenkonea
+title: Donamariako benta
 telefono:
-  - "948625540"
+  - "948450708"
 tags:
-  - "lunes-mediodia"
-  - "lunes-noche"
   - "martes-mediodia"
   - "martes-noche"
   - "miercoles-mediodia"
@@ -23,10 +21,10 @@ tags:
 idioma: es
 ---
 
-12:30h. – 15:30h. / 20:30h. - 22:30h.
+13:30h. – 15:30h. / 20:30h. – 22:15h.
 
-Menú del día (14€), menú Lenkonea (25€) y carta (precio medio: 40€).
+Menús (18€ / 25€). FUERA DE HORARIO: Raciones (10:00 – 12:00)
 
-Bera
+Donamaria
 
-[Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/bera-es-0-175/restaurante-lenkonea-hotel-churrut.html)
+[Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/donamaria-es-0-176/restaurante-donamariako-benta.html)
