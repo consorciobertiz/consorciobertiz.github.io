@@ -1,10 +1,10 @@
 ---
 layout: restaurante
 category: restaurante
-title: Urgain
-telefono:
-  - "948592063"
 published: true
+title: Camping Ariztigain
+telefono:
+  - "948450540"
 tags:
   - "lunes-mediodia"
   - "lunes-noche"
@@ -23,10 +23,10 @@ tags:
 idioma: en
 ---
 
-13:00h. – 15:30h. / 20:30h. – 22:00h.
+13:00-15:15/19:30-22:15
 
-Menú del día (11€), Menú fin de semana (12,50€), carta (Precio medio: 25€), platos combinados, pinchos y bocadillos.
+Menu (11€), platos combinados, pinchos, hamburguesas, sandwichs, bocatas, menu fin de semana (22€ y 32€), cazuelas y raciones
 
-Oronoz-Mugaire
+Sunbilla
 
-[Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/oronoz-mugaire-es-0-189/hotel-restaurante-urgain.html)
+[Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/sunbilla-es-0-190/restaurante-camping-ariztigain.html)
