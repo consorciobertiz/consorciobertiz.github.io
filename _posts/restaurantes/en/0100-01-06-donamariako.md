@@ -21,9 +21,9 @@ tags:
 idioma: en
 ---
 
-13:30h. – 15:30h. / 20:30h. – 22:15h.
+13:30 h. - 15:30 h
 
-Menús (18€ / 25€). FUERA DE HORARIO: Raciones (10:00 – 12:00)
+Menus (18 € / 25 €) After Hours: rations (10:00 to 12:00)
 
 Donamaria
 

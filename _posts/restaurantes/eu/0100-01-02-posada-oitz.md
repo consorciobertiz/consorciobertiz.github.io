@@ -20,9 +20,11 @@ tags:
 idioma: eu
 ---
 
-12:30h.–15:30h. / 20:00h.–22:00 (entre semana y domingos), 22:30 (viernes), 23:00 (sábados).
+12:30h. - 15:30h. / 20:00h. -22:00h. (astetartez eta igendeetan); 22:30 ortziraletan; 23:00 laruntabatetan.
 
-Menú del día (14,50€), carta (Precio medio: 25-26€), menú fin de semana y menús temáticos. FUERA DE HORARIO: Pinchos y raciones (por las mañanas)
+Eguneko menua (14,50€), karta (batazbesteko prezioa: 25-26€), asteburuko menua eta gaikako menuak.
+
+Ordutegiz kanpo: pintxoak eta razioak (goizez)
 
 Oitz
 

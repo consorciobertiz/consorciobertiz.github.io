@@ -23,9 +23,9 @@ tags:
 idioma: fr
 ---
 
-13:00-15:15/19:30-22:15
+13:00h. – 15:15h. / 19:30h. – 22:15h.
 
-Menu (11€), platos combinados, pinchos, hamburguesas, sandwichs, bocatas, menu fin de semana (22€ y 32€), cazuelas y raciones
+Menu (11€), plats formule, pinchos, hamburgers, sandwiches, menu week end (22€ y 32 €), hors d'eouvres chauds.
 
 Sunbilla
 

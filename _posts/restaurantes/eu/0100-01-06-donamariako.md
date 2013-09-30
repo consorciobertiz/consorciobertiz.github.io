@@ -21,9 +21,11 @@ tags:
 idioma: eu
 ---
 
-13:30h. – 15:30h. / 20:30h. – 22:15h.
+13:30h. - 15:30h.
 
-Menús (18€ / 25€). FUERA DE HORARIO: Raciones (10:00 – 12:00)
+Menuak (18€/25€)
+
+Ordutegiz kanpo: razioak (10:00 - 12:00)
 
 Donamaria
 

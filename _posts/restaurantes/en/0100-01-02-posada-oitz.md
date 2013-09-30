@@ -20,9 +20,9 @@ tags:
 idioma: en
 ---
 
-12:30h.–15:30h. / 20:00h.–22:00 (entre semana y domingos), 22:30 (viernes), 23:00 (sábados).
+12:30 PM. - 15:30 h. / 20:00 h. - 22:00 pm. Friday until 22:30 pm and Saturday to 23:00 h
 
-Menú del día (14,50€), carta (Precio medio: 25-26€), menú fin de semana y menús temáticos. FUERA DE HORARIO: Pinchos y raciones (por las mañanas)
+Menu of the day (14.50 €), à la carte (average price: 25-26 €), weekend menu and themed menus. In the morning after hours: bites and portions.
 
 Oitz
 

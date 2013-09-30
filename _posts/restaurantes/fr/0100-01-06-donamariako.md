@@ -20,10 +20,11 @@ tags:
   - "domingo-noche"
 idioma: fr
 ---
+13:30h. - 15:30h.
 
-13:30h. – 15:30h. / 20:30h. – 22:15h.
+Menus (18€/25€)
 
-Menús (18€ / 25€). FUERA DE HORARIO: Raciones (10:00 – 12:00)
+Hors cet horaire: hors d'eouvres (10:00 - 12:00)
 
 Donamaria
 
