@@ -28,4 +28,4 @@ Ordutegiz kanpo: pintxoak eta razioak (goizez)
 
 Oitz
 
-[Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/oitz-es-0-188/posada-de-oitz-es.html)
+[+ informazioa](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/oitz-es-0-188/posada-de-oitz-es.html)

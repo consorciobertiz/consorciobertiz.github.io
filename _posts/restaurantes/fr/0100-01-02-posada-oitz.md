@@ -26,4 +26,4 @@ Oitz
 
 Oitz
 
-[Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/oitz-es-0-188/posada-de-oitz-es.html)
+[Plus information](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/oitz-es-0-188/posada-de-oitz-es.html)

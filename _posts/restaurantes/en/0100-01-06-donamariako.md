@@ -27,4 +27,4 @@ Menus (18 € / 25 €) After Hours: rations (10:00 to 12:00)
 
 Donamaria
 
-[Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/donamaria-es-0-176/restaurante-donamariako-benta.html)
+[More information](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/donamaria-es-0-176/restaurante-donamariako-benta.html)

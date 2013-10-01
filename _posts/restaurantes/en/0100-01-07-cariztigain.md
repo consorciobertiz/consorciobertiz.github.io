@@ -29,4 +29,4 @@ Menu (11 €), meals, snacks, sandwich burgers, sandwiches, weekend menu (22 €
 
 Sunbilla
 
-[Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/sunbilla-es-0-190/restaurante-camping-ariztigain.html)
+[More information](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/sunbilla-es-0-190/restaurante-camping-ariztigain.html)

@@ -28,4 +28,4 @@ Hors cet horaire: hors d'eouvres (10:00 - 12:00)
 
 Donamaria
 
-[Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/donamaria-es-0-176/restaurante-donamariako-benta.html)
+[Plus information](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/donamaria-es-0-176/restaurante-donamariako-benta.html)

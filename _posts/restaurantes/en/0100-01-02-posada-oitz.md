@@ -26,4 +26,4 @@ Menu of the day (14.50 €), à la carte (average price: 25-26 €), weekend men
 
 Oitz
 
-[Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/oitz-es-0-188/posada-de-oitz-es.html)
+[More information](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/oitz-es-0-188/posada-de-oitz-es.html)

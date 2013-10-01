@@ -23,10 +23,10 @@ tags:
 idioma: eu
 ---
 
-13:00-15:15/19:30-22:15
+13:00h. – 15:15h. / 19:30h. – 22:15h.
 
-Menu (11€), platos combinados, pinchos, hamburguesas, sandwichs, bocatas, menu fin de semana (22€ y 32€), cazuelas y raciones
+Menua (11€), plater konbinautak, pintxoak, hanburgesak, sandwich-ak, bokatak, asteburuko menua (22€ y 32 €), kazuelak eta razioak.
 
 Sunbilla
 
-[Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/sunbilla-es-0-190/restaurante-camping-ariztigain.html)
+[+ informazioa](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/sunbilla-es-0-190/restaurante-camping-ariztigain.html)

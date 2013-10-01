@@ -29,4 +29,4 @@ Menu (11€), plats formule, pinchos, hamburgers, sandwiches, menu week end (22�
 
 Sunbilla
 
-[Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/sunbilla-es-0-190/restaurante-camping-ariztigain.html)
+[Plus information](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/sunbilla-es-0-190/restaurante-camping-ariztigain.html)
