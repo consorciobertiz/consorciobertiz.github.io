@@ -29,3 +29,5 @@ Menú del día (14,50€), carta (Precio medio: 25-26€), menú fin de semana y
 Oitz
 
 [Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/oitz-es-0-188/posada-de-oitz-es.html)
+
+[Localizar en el mapa](https://maps.google.es/maps?q=Posada+de+Oitz&hl=es&sll=43.113641,-1.682539&sspn=0.020395,0.038581&t=h&hq=Posada+de+Oitz&z=15&iwloc=A "Posada Oitz")
