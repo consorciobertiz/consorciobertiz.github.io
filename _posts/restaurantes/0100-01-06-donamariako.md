@@ -30,4 +30,4 @@ Donamaria
 
 [Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/donamaria-es-0-176/restaurante-donamariako-benta.html)
 
-[Localizar en el mapa](https://maps.google.es/maps?hl=es&tab=wl "Donamariako benta")
+[Localizar en el mapa](https://maps.google.es/maps?q=donamaria%C2%B4ko+benta&hl=es&ie=UTF8&ll=43.113641,-1.682539&spn=0.020395,0.038581&sll=43.113265,-1.681681&sspn=0.020395,0.038581&t=h&hq=donamariako+benta&z=15&iwloc=A "Donamariako benta")
