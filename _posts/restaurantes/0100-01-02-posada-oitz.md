@@ -24,7 +24,7 @@ idioma: es
 
 Menú del día (14,50€), carta (Precio medio: 25-26€), menú fin de semana y menús temáticos. FUERA DE HORARIO: Pinchos y raciones (por las mañanas)
 
-*25 Diciembre cerrado.
+**25 Diciembre cerrado.**
 
 Oitz
 
