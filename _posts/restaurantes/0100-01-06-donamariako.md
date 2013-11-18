@@ -29,3 +29,5 @@ Menús (18€ / 25€). FUERA DE HORARIO: Raciones (10:00 – 12:00)
 Donamaria
 
 [Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/donamaria-es-0-176/restaurante-donamariako-benta.html)
+
+[Localizar en el mapa](https://maps.google.es/maps?hl=es&tab=wl "Donamariako benta")
