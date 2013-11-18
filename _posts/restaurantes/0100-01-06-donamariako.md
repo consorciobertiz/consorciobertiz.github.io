@@ -3,9 +3,9 @@ layout: restaurante
 category: restaurante
 published: true
 title: Donamariako benta
-telefono:
+telefono: 
   - "948450708"
-tags:
+tags: 
   - "martes-mediodia"
   - "martes-noche"
   - "miercoles-mediodia"
@@ -17,7 +17,6 @@ tags:
   - "sabado-mediodia"
   - "sabado-noche"
   - "domingo-mediodia"
-  - "domingo-noche"
 idioma: es
 ---
 
