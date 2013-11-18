@@ -24,6 +24,8 @@ idioma: es
 
 Menús (18€ / 25€). FUERA DE HORARIO: Raciones (10:00 – 12:00)
 
+**Del 17 de Diciembre al 4 de Enero cerrado.**
+
 Donamaria
 
 [Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/donamaria-es-0-176/restaurante-donamariako-benta.html)
