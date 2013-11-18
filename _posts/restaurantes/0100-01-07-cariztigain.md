@@ -30,3 +30,5 @@ FUERA DE HORARIO: Pinchos, almuerzos y raciones
 Sunbilla
 
 [Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/sunbilla-es-0-190/restaurante-camping-ariztigain.html)
+
+[Localizar en el mapa](https://maps.google.es/maps?q=camping+ariztigain&hl=es&ll=43.186279,-1.672497&spn=0.081482,0.154324&sll=43.130208,-1.643753&sspn=0.010195,0.01929&t=h&hq=camping+ariztigain&z=13&iwloc=A "Camping Ariztigain")
