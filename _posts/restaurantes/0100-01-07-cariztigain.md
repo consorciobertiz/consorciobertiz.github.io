@@ -23,6 +23,10 @@ idioma: es
 
 Menu (11€), platos combinados, pinchos, hamburguesas, sandwichs, bocatas, menu fin de semana (22€ y 32€), cazuelas y raciones
 
+FUERA DE HORARIO: Pinchos, almuerzos y raciones
+
+**Del 15 al 31 de Diciembre cerrado**
+
 Sunbilla
 
 [Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/sunbilla-es-0-190/restaurante-camping-ariztigain.html)
