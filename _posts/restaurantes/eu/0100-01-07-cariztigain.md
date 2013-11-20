@@ -23,6 +23,12 @@ idioma: eu
 
 Menua (11€), plater konbinautak, pintxoak, hanburgesak, sandwich-ak, bokatak, asteburuko menua (22€ y 32 €), kazuelak eta razioak.
 
+ORDUTEGIZ KANPO:Pintxoak, gosariak eta razioak.
+
+**Abenduak 15etik 31ra itxita**
+
 Sunbilla
 
-[+ informazioa](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/sunbilla-es-0-190/restaurante-camping-ariztigain.html)
+[Informazio gehiago](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/sunbilla-es-0-190/restaurante-camping-ariztigain.html)
+
+[Mapan kokatu](https://maps.google.es/maps?q=camping+ariztigain&hl=es&ll=43.186279,-1.672497&spn=0.081482,0.154324&sll=43.130208,-1.643753&sspn=0.010195,0.01929&t=h&hq=camping+ariztigain&z=13&iwloc=A "Ariztigain kanpina")
