@@ -22,11 +22,11 @@ idioma: eu
 
 13:30h. - 15:30h. / 20:30h. - 22:15h.
 
-Menuak (18€/25€). ORDUTEGIZ KANPO: Razioak (10:00 - 12:00)
+Menuak (18€/25€).
 
 **Abenduak 17tik Urtarrilak 4a itxita**
 
-Ordutegiz kanpo: razioak (10:00 - 12:00)
+ORDUTEGIZ KANPO: Razioak (10:00 - 12:00)
 
 Donamaria
 
