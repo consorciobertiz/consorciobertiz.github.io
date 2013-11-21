@@ -20,12 +20,14 @@ tags:
 idioma: fr
 ---
 
-13:30h. - 15:30h.
+13:30h. - 15:30h. / 20:30h. - 22;15h.
 
-Menus (18€/25€)
+Menus (18€/25€). DEHORS DES HEURES: Hors d´eouvres chauds (10:00 - 12:00)
 
-Hors cet horaire: hors d'eouvres (10:00 - 12:00)
+**Du 17 Decembre au 4 Janvier fermé**
 
 Donamaria
 
 [Plus information](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/donamaria-es-0-176/restaurante-donamariako-benta.html)
+
+[Localiser sur la carte](https://maps.google.es/maps?q=donamaria%C2%B4ko+benta&hl=es&ie=UTF8&ll=43.113641,-1.682539&spn=0.020395,0.038581&sll=43.113265,-1.681681&sspn=0.020395,0.038581&t=h&hq=donamariako+benta&z=15&iwloc=A "Donamariako benta")
