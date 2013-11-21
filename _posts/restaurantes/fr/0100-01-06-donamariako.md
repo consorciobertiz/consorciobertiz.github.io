@@ -22,7 +22,9 @@ idioma: fr
 
 13:30h. - 15:30h. / 20:30h. - 22;15h.
 
-Menus (18€/25€). DEHORS DES HEURES: Hors d´eouvres chauds (10:00 - 12:00)
+Menus (18€/25€). 
+
+DEHORS DES HEURES: Hors d´eouvres chauds (10:00 - 12:00)
 
 **Du 17 Decembre au 4 Janvier fermé**
 
