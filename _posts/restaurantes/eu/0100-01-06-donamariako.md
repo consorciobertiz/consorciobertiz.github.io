@@ -3,9 +3,9 @@ layout: restaurante
 category: restaurante
 published: true
 title: Donamariako benta
-telefono: 
+telefono:
   - "948450708"
-tags: 
+tags:
   - "martes-mediodia"
   - "martes-noche"
   - "miercoles-mediodia"
@@ -32,4 +32,4 @@ Donamaria
 
 [Informazio gehiago](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/donamaria-es-0-176/restaurante-donamariako-benta.html)
 
-[Mapan kokatu](https://maps.google.es/maps?q=donamaria%C2%B4ko+benta&hl=es&ie=UTF8&ll=43.113641,-1.682539&spn=0.020395,0.038581&sll=43.113265,-1.681681&sspn=0.020395,0.038581&t=h&hq=donamariako+benta&z=15&iwloc=A "Donamariako benta")
+[Mapan kokatu](https://maps.google.es/maps?q=donamaria%C2%B4ko+benta&amp;hl=es&amp;ie=UTF8&amp;ll=43.113641,-1.682539&amp;spn=0.020395,0.038581&amp;sll=43.113265,-1.681681&amp;sspn=0.020395,0.038581&amp;t=h&amp;hq=donamariako+benta&amp;z=15&amp;iwloc=A "Donamariako benta")
