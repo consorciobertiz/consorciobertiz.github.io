@@ -3,9 +3,9 @@ layout: restaurante
 category: restaurante
 published: true
 title: Camping Ariztigain
-telefono:
+telefono: 
   - "948450540"
-tags:
+tags: 
   - "lunes-mediodia"
   - "martes-mediodia"
   - "miercoles-mediodia"
@@ -19,13 +19,11 @@ tags:
 idioma: es
 ---
 
-13:00-15:15/19:30-22:15
+13:00-15:15/19:30-22:30
 
 Menu (11€), platos combinados, pinchos, hamburguesas, sandwichs, bocatas, menu fin de semana (22€ y 32€), cazuelas y raciones
 
-FUERA DE HORARIO: Pinchos, almuerzos y raciones
-
-**Del 15 al 31 de Diciembre cerrado**
+FUERA DE HORARIO: Pinchos, bocatas y raciones
 
 Sunbilla
 
