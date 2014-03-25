@@ -3,9 +3,9 @@ layout: restaurante
 category: restaurante
 published: true
 title: Camping Ariztigain
-telefono:
+telefono: 
   - "948450540"
-tags:
+tags: 
   - "lunes-mediodia"
   - "martes-mediodia"
   - "miercoles-mediodia"
@@ -19,13 +19,11 @@ tags:
 idioma: eu
 ---
 
-13:00h. – 15:15h. / 19:30h. – 22:15h.
+13:00h. – 15:15h. / 19:30h. – 22:30h.
 
 Menua (11€), plater konbinautak, pintxoak, hanburgesak, sandwich-ak, bokatak, asteburuko menua (22€ y 32 €), kazuelak eta razioak.
 
-ORDUTEGIZ KANPO:Pintxoak, gosariak eta razioak.
-
-**Abenduak 15etik 31ra itxita**
+ORDUTEGIZ KANPO: Pintxoak, bokatak eta razioak.
 
 Sunbilla
 
