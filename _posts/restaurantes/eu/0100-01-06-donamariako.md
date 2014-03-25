@@ -3,9 +3,9 @@ layout: restaurante
 category: restaurante
 published: true
 title: Donamariako benta
-telefono:
+telefono: 
   - "948450708"
-tags:
+tags: 
   - "martes-mediodia"
   - "martes-noche"
   - "miercoles-mediodia"
@@ -20,13 +20,9 @@ tags:
 idioma: eu
 ---
 
-13:30h. - 15:30h. / 20:30h. - 22:15h.
+13:30h. - 15:30h. / 20:30h. - 22:30h.
 
-Menuak (18€/25€).
-
-**Abenduak 17tik Urtarrilak 4a itxita**
-
-ORDUTEGIZ KANPO: Razioak (10:00 - 12:00)
+Menuak (20€/30€).
 
 Donamaria
 
