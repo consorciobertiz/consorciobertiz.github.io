@@ -3,9 +3,9 @@ layout: restaurante
 category: restaurante
 published: true
 title: Posada de Oitz
-telefono:
+telefono: 
   - "948451951"
-tags:
+tags: 
   - "martes-mediodia"
   - "miercoles-mediodia"
   - "miercoles-noche"
@@ -20,11 +20,9 @@ tags:
 idioma: es
 ---
 
-12:30h.–15:30h. / 20:00h.–22:00 (entre semana y domingos), 22:30 (viernes), 23:00 (sábados).
+12:30h.–15:30h. / 20:00h.–22:00 (entre semana), 23:00 (fin de semana).
 
-Menú del día (14,50€), carta (Precio medio: 25-26€), menú fin de semana y menús temáticos. FUERA DE HORARIO: Pinchos y raciones (por las mañanas)
-
-**25 Diciembre cerrado.**
+Menú del día (14,50€), carta (Precio medio: 26€), menú fin de semana y menús temáticos. FUERA DE HORARIO: Pinchos y bocatas (por las tardes)
 
 Oitz
 
