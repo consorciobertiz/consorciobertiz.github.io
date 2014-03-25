@@ -3,9 +3,9 @@ layout: restaurante
 category: restaurante
 published: true
 title: Donamariako benta
-telefono:
+telefono: 
   - "948450708"
-tags:
+tags: 
   - "martes-mediodia"
   - "martes-noche"
   - "miercoles-mediodia"
@@ -20,11 +20,9 @@ tags:
 idioma: es
 ---
 
-13:30h. – 15:30h. / 20:30h. – 22:15h.
+13:30h. – 15:30h. / 20:30h. – 22:30h.
 
-Menús (18€ / 25€). FUERA DE HORARIO: Raciones (10:00 – 12:00)
-
-**Del 17 de Diciembre al 4 de Enero cerrado.**
+Menús (20€ / 30€).
 
 Donamaria
 
