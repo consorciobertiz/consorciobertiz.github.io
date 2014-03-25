@@ -8,9 +8,7 @@ telefono:
 tags: 
   - "martes-mediodia"
   - "miercoles-mediodia"
-  - "miercoles-noche"
   - "jueves-mediodia"
-  - "jueves-noche"
   - "viernes-mediodia"
   - "viernes-noche"
   - "sabado-mediodia"
