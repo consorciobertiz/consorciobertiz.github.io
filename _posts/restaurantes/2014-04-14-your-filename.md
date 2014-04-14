@@ -1,8 +1,8 @@
 ---
 layout: restaurante
 category: restaurante
-published: false
-title: ""
+published: true
+title: Olari
 idioma: es
 telefono: 948 45 22 54
 tags: 
@@ -29,4 +29,3 @@ Irurita
 [Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/irurita-es-0-184/restaurante-olari.html)
 
 [Localizar en el mapa](https://maps.google.es/maps?q=restaurante+olari&ie=UTF-8&mid=1397474560)
-
