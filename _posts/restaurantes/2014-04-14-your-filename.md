@@ -4,6 +4,20 @@ category: restaurante
 published: false
 title: ""
 idioma: es
+telefono: 948 45 22 54
+tags: 
+  - "martes-mediodia"
+  - "martes-noche"
+  - "miercoles-mediodia"
+  - "miercoles-noche"
+  - "jueves-mediodia"
+  - "jueves-noche"
+  - "viernes-mediodia"
+  - "viernes-noche"
+  - "sabado-mediodia"
+  - "sabado-noche"
+  - "domingo-mediodia"
+  - "domingo-noche"
 ---
 
 12:00-15:00 / 19:00-21:00 (Sabados 22:30)
