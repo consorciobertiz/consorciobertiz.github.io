@@ -3,9 +3,9 @@ layout: restaurante
 category: restaurante
 published: true
 title: Posada de Oitz
-telefono:
+telefono: 
   - "948451951"
-tags:
+tags: 
   - "martes-mediodia"
   - "miercoles-mediodia"
   - "miercoles-noche"
