@@ -1,6 +1,6 @@
 baseurl: /
 permalink: /restaurante/:title
-#markdown: rdiscount
+markdown: kramdown
 prose:
   rooturl: '_posts'
   siteurl: 'http://consorciobertiz.github.io'
