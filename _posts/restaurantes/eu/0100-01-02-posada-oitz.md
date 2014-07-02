@@ -6,7 +6,9 @@ title: Posada de Oitz
 telefono: 
   - "948451951"
 tags: 
+  - "lunes-mediodia"
   - "martes-mediodia"
+  - "martes-noche"
   - "miercoles-mediodia"
   - "miercoles-noche"
   - "jueves-mediodia"
@@ -26,7 +28,7 @@ Eguneko menua (14,50€), karta (batazbesteko prezioa: 26€), asteburuko menua 
 
 ORDUTEGIZ KANPO: Pintxoak eta razioak (arratsaldez)
 
-Oitz
+Oiz
 
 [Informazio gehiago](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/oitz-es-0-188/posada-de-oitz-es.html)
 
