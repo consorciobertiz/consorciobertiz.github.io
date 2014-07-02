@@ -6,7 +6,9 @@ title: Posada de Oitz
 telefono: 
   - "948451951"
 tags: 
+  - "lunes-mediodia"
   - "martes-mediodia"
+  - "martes-noche"
   - "miercoles-mediodia"
   - "miercoles-noche"
   - "jueves-mediodia"
@@ -26,7 +28,7 @@ Menú del día (14,50€), carta (Precio medio: 26€), menú fin de semana y me
 
 FUERA DE HORARIO: Pinchos y bocatas (por las tardes)
 
-Oitz
+Oiz
 
 [Más información](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/oitz-es-0-188/posada-de-oitz-es.html)
 
