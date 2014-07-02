@@ -6,7 +6,9 @@ title: Posada de Oitz
 telefono: 
   - "948451951"
 tags: 
+  - "lunes-mediodia"
   - "martes-mediodia"
+  - "martes-noche"
   - "miercoles-mediodia"
   - "miercoles-noche"
   - "jueves-mediodia"
@@ -20,15 +22,13 @@ tags:
 idioma: en
 ---
 
-12:30 h. - 15:30 h. / 20:00 h. - 22:00 h. (Monday to thursday and sunday) Friday until 22:30 pm and Saturday to 23:00 h
+12:30 h. - 15:30 h. / 20:00 h. - 22:00 h. (Monday to friday) 23:00 (Week-end)
 
 Menu of the day (14.50 €), à la carte (average price: 25-26 €), weekend menu and themed menus.
 
 OUT OF HOURS: snacks and portions (in the morning)
 
-**25th December closed**
-
-Oitz
+Oiz
 
 [More information](http://www.consorciobertiz.org/consorcio/dondecomer/restaurantes/oitz-es-0-188/posada-de-oitz-es.html)
 
