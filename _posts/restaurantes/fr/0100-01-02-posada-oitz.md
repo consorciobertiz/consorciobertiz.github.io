@@ -6,9 +6,7 @@ title: Posada de Oitz
 telefono: 
   - "948451951"
 tags: 
-  - "lunes-mediodia"
   - "martes-mediodia"
-  - "martes-noche"
   - "miercoles-mediodia"
   - "miercoles-noche"
   - "jueves-mediodia"
